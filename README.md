@@ -16,7 +16,7 @@
 
 I am a Cyber Security student specializing in Cloud Security and DevSecOps, with hands-on experience training, tuning, and deploying machine learning models for security automation and infrastructure, having experience on building security tools where machine learning isn't just a feature,it's the decision engine. My models are trained on real breach patterns, cross-validated for precision, and deployed as CI/CD gates that decide whether code ships or gets blocked.
 
-I sit at the intersection of three disciplines: cloud infrastructure engineering, security automation, and applied machine learning.
+I'm in the intersection of cloud infrastructure engineering, security automation, and applied machine learning.
 
 #Go Above & Beyond</p>
 
