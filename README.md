@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="440" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+  <img src="https://streak-stats.demolab.com?user=JashwanthMU&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -12,27 +13,12 @@
 
 ###
 
-<p align="left">Cloud Security Engineer (Student) | Building ML-Powered DevSecOps Tools
-
+<p align="left">
 I am a Cyber Security student specializing in Cloud Security and DevSecOps, with hands-on experience training, tuning, and deploying machine learning models for security automation and infrastructure, having experience on building security tools where machine learning isn't just a feature,it's the decision engine. My models are trained on real breach patterns, cross-validated for precision, and deployed as CI/CD gates that decide whether code ships or gets blocked.
 
 I'm in the intersection of cloud infrastructure engineering, security automation, and applied machine learning.
 
 #Go Above & Beyond</p>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JashwanthMU&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JashwanthMU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JashwanthMU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="left">
@@ -93,7 +79,3 @@ I'm in the intersection of cloud infrastructure engineering, security automation
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JashwanthMU.JashwanthMU&"  />
-</div>
